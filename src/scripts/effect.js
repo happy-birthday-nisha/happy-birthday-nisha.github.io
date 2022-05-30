@@ -223,7 +223,7 @@ $('document').ready(function(){
 		$('#f7').addClass('dance-two')
 		$('#f8').addClass('dance-two')
 		$('#f11').addClass('dance-two')
-		 $('#f12').addClass('dance-two')
+		$('#f12').addClass('dance-two')
 		$('#self').addClass('dance-one')
 		 $('#f9').addClass('dance-one')
 		$('#f10').addClass('dance-one')
